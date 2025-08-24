@@ -1,12 +1,9 @@
 {
   "folders": [
-	{
-		"path": "frontend"
-	},
-	{
-		"path": "backend"
-	}
-],
+    {
+      "path": "backend"
+    }
+  ],
   "settings": {
     "files.exclude": {
       "**/node_modules": true,

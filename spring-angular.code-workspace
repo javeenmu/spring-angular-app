@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "frontend"
+	},
+	{
+		"path": "C:/Users/Javeen M U/Downloads/backend/backend"
+	}
+],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/target": true
+    }
+  }
+}
